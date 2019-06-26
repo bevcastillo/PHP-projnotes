@@ -1,0 +1,20 @@
+.big-banner{
+    background-image: url('../images/cute_baby.jpg');
+    background-size: 100%;
+}
+.home-banner{
+    background-image: url('../images/photo-1491492628162-d88fbe1cdd04.jpeg');
+    background-size: 100%;
+}
+.random-banner{
+    background-image: url('../images/topshot_19.jpg');
+    background-size: 100%;
+}
+.all-banner{
+    background-image: url('../images/38545413-Sweet-pink-baby-girl-elements-seamless-pattern-wallpaper-Stock-Vector.jpg');
+    background-size: 100%;
+}
+
+.fresh-content{
+    background: linear-gradient(-45deg,#ec5252,#6e1a52);
+}
