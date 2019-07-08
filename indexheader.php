@@ -8,18 +8,18 @@
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.php">Leafnote</a>
+      <a class="navbar-brand font-weight-bold" href="index.php">Leafnote</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
     <div class="navbar-nav">      
-        <a class=" nav-item nav-link ml-4" href="#">About</a>
-        <a class=" nav-item nav-link ml-4" href="#">Pricing</a>
-        <a class=" nav-item nav-link ml-4" href="#">Features</a>
-        <a class=" nav-item nav-link ml-4" href="login.php">Login</a>
+        <a class=" nav-item nav-link ml-4 text-dark" href="#">About</a>
+        <a class=" nav-item nav-link ml-4 text-dark" href="#">Pricing</a>
+        <a class=" nav-item nav-link ml-4 text-dark" href="#">Features</a>
+        <a class=" nav-item nav-link ml-4 text-dark" href="login.php">Login</a>
     </div>
   </div>
-</nav>
+  </nav>
 </body>
 </html>
